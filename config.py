@@ -4,7 +4,7 @@ import os
 load_dotenv()
 
 #massive api key
-MASSIVE_API_KEY = os.getenv("MASSIVE_API_KEY")
+COLLECT_API_KEY = os.getenv("COLLECT_API_KEY")
 
 #DB connection
 DB_NAME = os.getenv("DB_NAME")
